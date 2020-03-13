@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Tables><Table name="user"><Columns><column><Name>id</Name><data_type>Int64</data_type><Primary_key>true</Primary_key><Constarints>None </Constarints><Foreign_keys /><rows /></column></Columns></Table></Tables>
